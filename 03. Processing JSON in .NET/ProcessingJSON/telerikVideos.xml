@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <id>yt:channel:UCLC-vbm7OWvpbqzXaoAMGGw</id>
+ <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+ <title>TelerikAcademy</title>
+ <link rel="alternate" href="http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <author>
+  <name>TelerikAcademy</name>
+  <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+ </author>
+ <published>2011-06-24T15:53:13+00:00</published>
+ <entry>
+  <id>yt:video:IUb9W4o1wi8</id>
+  <yt:videoId>IUb9W4o1wi8</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Качествен програмен код - Част II - Защитно програмиране</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=IUb9W4o1wi8"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-13T18:43:10+00:00</published>
+  <updated>2016-09-14T08:03:54+00:00</updated>
+  <media:group>
+   <media:title>Качествен програмен код - Част II - Защитно програмиране</media:title>
+   <media:content url="https://www.youtube.com/v/IUb9W4o1wi8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IUb9W4o1wi8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Защитно програмиране
+Курс: Качествен програмен код - Част II
+Лектор: Иван Колев
+Дата: 13.09.2016 г.
+ 
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="78"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8xuPCUEyVXg</id>
+  <yt:videoId>8xuPCUEyVXg</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Качествен програмен код - Част II - Въведение в курса</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=8xuPCUEyVXg"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-13T18:22:04+00:00</published>
+  <updated>2016-09-14T10:47:09+00:00</updated>
+  <media:group>
+   <media:title>Качествен програмен код - Част II - Въведение в курса</media:title>
+   <media:content url="https://www.youtube.com/v/8xuPCUEyVXg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8xuPCUEyVXg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Въведение в курса
+Курс: Качествен програмен код - Част II
+Лектор: Иван Колев
+Дата: 13.09.2016 г.
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="86"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:deUSZMo70Cs</id>
+  <yt:videoId>deUSZMo70Cs</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Модули и шаблони в JavaScript</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=deUSZMo70Cs"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-09T14:03:27+00:00</published>
+  <updated>2016-09-13T06:17:14+00:00</updated>
+  <media:group>
+   <media:title>Модули и шаблони в JavaScript</media:title>
+   <media:content url="https://www.youtube.com/v/deUSZMo70Cs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/deUSZMo70Cs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Модули и шаблони в JavaScript
+Курс: JavaScript OOP
+Лектор: Дончо Минков
+Дата: 2 септември 2016 г.
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="129"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZOGpLqKCDDM</id>
+  <yt:videoId>ZOGpLqKCDDM</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>ES2015 Features</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=ZOGpLqKCDDM"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-09T14:03:27+00:00</published>
+  <updated>2016-09-09T16:46:17+00:00</updated>
+  <media:group>
+   <media:title>ES2015 Features</media:title>
+   <media:content url="https://www.youtube.com/v/ZOGpLqKCDDM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZOGpLqKCDDM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: ES2015 Features
+Курс: JavaScript OOP
+Лектор: Дончо Минков
+Дата: 2 септември 2016 г.
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="108"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IqcayHSApLA</id>
+  <yt:videoId>IqcayHSApLA</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Mixins live demo</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=IqcayHSApLA"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-08T09:18:22+00:00</published>
+  <updated>2016-09-08T14:14:58+00:00</updated>
+  <media:group>
+   <media:title>Mixins live demo</media:title>
+   <media:content url="https://www.youtube.com/v/IqcayHSApLA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IqcayHSApLA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс:
+Лектор:
+Дата:
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="156"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9EryjvPBpEc</id>
+  <yt:videoId>9EryjvPBpEc</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Class Inheritance</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=9EryjvPBpEc"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-08T09:18:22+00:00</published>
+  <updated>2016-09-08T18:16:18+00:00</updated>
+  <media:group>
+   <media:title>Class Inheritance</media:title>
+   <media:content url="https://www.youtube.com/v/9EryjvPBpEc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9EryjvPBpEc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс:
+Лектор:
+Дата:
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="85"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Zheuu4G_1gA</id>
+  <yt:videoId>Zheuu4G_1gA</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Mixins</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=Zheuu4G_1gA"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-08T09:18:22+00:00</published>
+  <updated>2016-09-08T20:21:22+00:00</updated>
+  <media:group>
+   <media:title>Mixins</media:title>
+   <media:content url="https://www.youtube.com/v/Zheuu4G_1gA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Zheuu4G_1gA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс:
+Лектор:
+Дата:
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="131"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ebvwBv9RMUA</id>
+  <yt:videoId>ebvwBv9RMUA</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Новости в ES6</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=ebvwBv9RMUA"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-03T12:32:50+00:00</published>
+  <updated>2016-09-09T16:57:53+00:00</updated>
+  <media:group>
+   <media:title>Новости в ES6</media:title>
+   <media:content url="https://www.youtube.com/v/ebvwBv9RMUA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ebvwBv9RMUA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Новости в ES6
+Курс: JavaScript OOP
+Лектор: Кристиян Цъклев
+Дата: 02 септември 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="612"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:E8HKDg4CQ_0</id>
+  <yt:videoId>E8HKDg4CQ_0</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Модули и Патърни</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=E8HKDg4CQ_0"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-03T12:16:16+00:00</published>
+  <updated>2016-09-04T11:54:59+00:00</updated>
+  <media:group>
+   <media:title>Модули и Патърни</media:title>
+   <media:content url="https://www.youtube.com/v/E8HKDg4CQ_0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/E8HKDg4CQ_0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Модули и Патърни
+Курс: JavaScript OOP
+Лектор: Кристиян Цъклев
+Дата: 02 септември 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="485"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eFgSfMrLHKE</id>
+  <yt:videoId>eFgSfMrLHKE</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Висококачествен програмен код - Висококачествени класове</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=eFgSfMrLHKE"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-02T07:57:04+00:00</published>
+  <updated>2016-09-03T22:17:49+00:00</updated>
+  <media:group>
+   <media:title>Висококачествен програмен код - Висококачествени класове</media:title>
+   <media:content url="https://www.youtube.com/v/eFgSfMrLHKE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eFgSfMrLHKE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Висококачествени класове
+Курс: Висококачествен програмен код 
+Лектор: Стивън Цветков
+Дата: 01 септември 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="273"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:s95xl-OTz8c</id>
+  <yt:videoId>s95xl-OTz8c</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Висококачествен програмен код - Висококачествени методи</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=s95xl-OTz8c"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-02T07:55:28+00:00</published>
+  <updated>2016-09-04T20:03:28+00:00</updated>
+  <media:group>
+   <media:title>Висококачествен програмен код - Висококачествени методи</media:title>
+   <media:content url="https://www.youtube.com/v/s95xl-OTz8c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/s95xl-OTz8c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Висококачествени методи
+Курс: Висококачествен програмен код 
+Лектор: Стивън Цветков
+Дата: 01 септември 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="267"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vAu2YcQNhSc</id>
+  <yt:videoId>vAu2YcQNhSc</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>ES6 Наследяване на класове</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=vAu2YcQNhSc"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-01T09:57:50+00:00</published>
+  <updated>2016-09-08T18:03:43+00:00</updated>
+  <media:group>
+   <media:title>ES6 Наследяване на класове</media:title>
+   <media:content url="https://www.youtube.com/v/vAu2YcQNhSc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vAu2YcQNhSc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: ES6 Наследяване на класове
+Курс: JavaScript OOP
+Лектор: Кристиян Цъклев
+Дата: 31 август 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="576"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AURu_-yccXg</id>
+  <yt:videoId>AURu_-yccXg</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Мixins</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=AURu_-yccXg"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-09-01T09:55:09+00:00</published>
+  <updated>2016-09-07T22:17:48+00:00</updated>
+  <media:group>
+   <media:title>Мixins</media:title>
+   <media:content url="https://www.youtube.com/v/AURu_-yccXg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AURu_-yccXg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Мixins
+Курс: JavaScript OOP
+Лектор: Кристиян Цъклев
+Дата: 31 август 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="543"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dzlwxWpfXsI</id>
+  <yt:videoId>dzlwxWpfXsI</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Висококачествен програмен код - Коментиране и документиране на кода</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=dzlwxWpfXsI"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-08-31T15:13:43+00:00</published>
+  <updated>2016-09-09T19:23:55+00:00</updated>
+  <media:group>
+   <media:title>Висококачествен програмен код - Коментиране и документиране на кода</media:title>
+   <media:content url="https://www.youtube.com/v/dzlwxWpfXsI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dzlwxWpfXsI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Коментиране и документиране на кода
+Курс: Висококачествен програмен код
+Лектор: Виктор Цветков
+Дата: 25 август 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="4" average="4.00" min="1" max="5"/>
+    <media:statistics views="298"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jEfm0uxcC7E</id>
+  <yt:videoId>jEfm0uxcC7E</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Висококачествен програмен код - Правилно именуване</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=jEfm0uxcC7E"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-08-31T15:01:17+00:00</published>
+  <updated>2016-09-09T19:24:17+00:00</updated>
+  <media:group>
+   <media:title>Висококачествен програмен код - Правилно именуване</media:title>
+   <media:content url="https://www.youtube.com/v/jEfm0uxcC7E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jEfm0uxcC7E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Правилно именуване
+Курс: Висококачествен програмен код
+Лектор: Виктор Цветков
+Дата: 25 август 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="221"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

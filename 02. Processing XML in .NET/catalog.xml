@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalog>
+  
+    <album>
+      <name>Best of</name>
+      <artist>Frank Sinatra</artist>
+      <year>1985</year>
+      <producer>Weird Records</producer>
+      <price>23</price>
+      
+      <songs>
+        <song>
+          <title>Lean Baby</title>
+          <duration>2:59</duration>
+        </song>
+      
+        <song>
+          <title>I am walking behind you</title>
+          <duration>3:02</duration>
+        </song>
+       
+        <song>
+          <title>From here to Eternity</title>
+          <duration>4:01</duration>
+        </song>
+      </songs>
+    </album>
+
+<album>
+      <name>Close to You</name>
+      <artist>Frank Sinatra</artist>
+      <year>1989</year>
+      <producer>Weird Records</producer>
+      <price>12</price>
+      
+      <songs>
+        <song>
+          <title>Close to you</title>
+          <duration>2:59</duration>
+        </song>
+      
+        <song>
+          <title>I've Had My Moments</title>
+          <duration>3:03</duration>
+        </song>
+       
+        <song>
+          <title>here's a Flaw in My Flue</title>
+          <duration>4:01</duration>
+        </song>
+      </songs>
+    </album>
+    
+    <album>
+      <name>Live in Cook County Jail</name>
+      <artist>B.B. King</artist>
+      <year>1971 </year>
+      <producer>Chicago Records</producer>
+      <price>19</price>
+
+      <songs>
+        <song>
+          <title>Worry, Worry</title>
+          <duration>3:12</duration>
+        </song>
+
+        <song>
+          <title>The thrill is gone</title>
+          <duration>6:02</duration>
+        </song>
+
+        <song>
+          <title>How blue can u get</title>
+          <duration>1:43</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>Toxicity</name>
+      <artist>System of a Down</artist>
+      <year>2001</year>
+      <producer>Their Records</producer>
+      <price>30</price>
+
+      <songs>
+        <song>
+          <title>Prison Song</title>
+          <duration>3:21</duration>
+        </song>
+
+        <song>
+          <title>Needles</title>
+          <duration>4:22</duration>
+        </song>
+
+        <song>
+          <title>Deer Dance</title>
+          <duration>2:33</duration>
+        </song>
+      </songs>
+    </album>
+   
+</catalog>
+

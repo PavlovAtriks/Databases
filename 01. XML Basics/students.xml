@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<students xmlns="urn:students">
+  <student>
+    <name>Miro</name>
+    <sex>Male</sex>
+    <birthDate>01.01.1988</birthDate>
+    <phone>+359 948 933</phone>
+    <email>miro@gmail.com</email>
+    <course>DB</course>
+    <specialty>IT</specialty>
+    <facultyNumber>59477</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB</name>
+        <tutor>Mr. Smith</tutor>
+        <score>99</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Pesho</name>
+    <sex>Male</sex>
+    <birthDate>02.02.1980</birthDate>
+    <phone>+359 888 888</phone>
+    <email>miro@gmail.com</email>
+    <course>C++</course>
+    <specialty>Tech Support</specialty>
+    <facultyNumber>46510</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB</name>
+        <tutor>Mr. Smith</tutor>
+        <score>89</score>
+      </exam>
+    </exams>
+  </student>
+</students>
